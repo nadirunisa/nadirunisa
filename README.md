@@ -42,7 +42,7 @@
 | 🧑‍💻 **Face Recognition Attendance System** | An attendance system using face recognition for automated check-ins | Laravel, MySQL |
 | 📦 **Product Management CRUD App** | Full CRUD app with role-based access control (admin/user) and authentication | Laravel Breeze, MySQL, Tailwind CSS |
 
-> 📁 Check out my pinned repositories below for more details and source code!
+> 📁 Check out my repositories below for more details and source code!
 
 ---
 
