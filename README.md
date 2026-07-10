@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 First-year Software Engineering Technology (TRPL) student at **Politeknik IDN**
 - 💻 Focused on building practical, real-world web and mobile applications
@@ -33,7 +33,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -43,17 +43,6 @@
 | 📦 **Product Management CRUD App** | Full CRUD app with role-based access control (admin/user) and authentication | Laravel Breeze, MySQL, Tailwind CSS |
 
 > 📁 Check out my repositories below for more details and source code!
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadirunisa&show_icons=true&theme=default&hide_border=true" alt="Nad's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadirunisa&hide_border=true" alt="Nad's GitHub Streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadirunisa&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
