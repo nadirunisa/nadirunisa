@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nadiyah 👋</h1>
+<h1 align="center">Hi there, I'm Nadi 👋</h1>
 <h3 align="center">Software Engineering Technology Student | Aspiring Web & Mobile Developer</h3>
 
 <p align="center">
@@ -47,11 +47,9 @@
 ---
 
 ### 📫 Let's Connect
-
 <p align="left">
   <a href="mailto:nadi.khrnnisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nadiyah-khoirunnisa-purwalilananda-368767363"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repos and reach out if you'd like to collaborate 🚀</i></p>
